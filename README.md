@@ -10,7 +10,7 @@ This project explores Amazon product data using Microsoft Excel to analyze revie
 TThe dataset used for this project was provided by The Incubator Hub as an Excel file titled "Amazon Case Study.xlsx". It contains product information, pricing, ratings, and customer review counts sourced from Amazon pages for educational purposes.
 
 ### Tools Used
-- Microsoft Excel ([Download Here] (Amazon%20%Case%Study.xlsx))
+- Microsoft Excel [Download Here] (Amazon%20%Case%Study.xlsx)
   - Data Collection
   - Data Cleaning
   - Calculations
