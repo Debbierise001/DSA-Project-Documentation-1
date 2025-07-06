@@ -21,7 +21,7 @@ The dataset used for this project was provided by The Incubator Hub as an Excel 
   - Pivot Tables to aggregate and summarize insights
 - Dashboard
   - Excel Charts and Pivotcharts to visualize trends and relationships
-  - Tables to identify products with highst average rating, highest ratings e.t.c
+  - Tables to identify products with highest average rating, highest ratings e.t.c
 
 ### Data Cleaning & Preparation
 - Removed unnecessary columns such as image link, product link, review content, review title, username, user ID, and review ID
