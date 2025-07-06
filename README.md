@@ -27,40 +27,27 @@ TThe dataset used for this project was provided by The Incubator Hub as an Excel
 - Shortened long product names to the first four words for clarity and consistency
 - Added space to the category and remove other unwanted words.
 
-### Calculated Insights
-- Created calculated columns
-  - Discount % to measured how much each product was discounted
-    = (Actual Price - Discounted Price) / Actual Price * 100
-  - Discount % >50% to labeled products with discount equal or greater than 50%
-    = =IF([@Discount%] >= 50, "Yes", "No")
-  - Potential Revenue to estimated revenue based on review count
-    = Actual Price * Rating Count
-  - Composite Score ranked products by rating and popularity
-    =  Average Rating + (Rating Count / 1000)
+### Calculations and Analysis
+  #### **Calculated columns**
+- To measured how much each product was discounted
+  - ```Discount % = (Actual Price - Discounted Price) / Actual Price * 100```
+- To labeled products with discount equal or greater than 50%
+  - ```Discount % >50% =IF([@Discount%] >= 50, "Yes", "No")```
+- To estimated revenue based on review count
+  - ```Potential Revenue = Actual Price * Rating Count```
+- To ranked products by rating and popularity
+  - ```Composite Score  =  Average Rating + (Rating Count / 1000)```
   
+  #### **Pivot Tables**
+  - Analyzed average discount % and average prices by categor
+  - Counted number of products and total reviews per category
+  - Identified products with highest ratings and most reviews
+  - Summarized potential revenue per category
 
-📈 Data Analysis Using Pivot Tables
+  #### **Dashboard**
+  - Built charts (bar, line, piechat and column) to present results
 
-Analyzed average discount % and average prices by category
-
-Counted number of products and total reviews per category
-
-Identified products with highest ratings and most reviews
-
-Summarized potential revenue per category
-
-
-📉 Trend & Relationship Analysis
-
-Compared rating patterns across discount ranges
-
-Identified categories with highest discount rates
-
-Ranked top products using combined rating and review score
-
-
-📌 Visualization & Reporting
-
-Built charts (bar, line, column) to present insights
-
-Captured key visuals as screenshots for documentation
+### Trend & Relationship Analysis
+- Compared rating patterns across discount ranges
+- Identified categories with highest discount rates
+- Ranked top products using combined rating and review score
