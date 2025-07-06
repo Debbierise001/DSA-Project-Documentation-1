@@ -45,15 +45,12 @@ b. **Pivot Tables**
 - Summarized potential revenue per category.
 
 ![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Pivot%20Table_023922.PNG)
-![Alt text]()
 
 c. **Dashboard**
 - Built charts (bar, line, pie and column) to present results.
 
 ![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Dashboard_023920.PNG)
-![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Dashboard%20(Slicer)_023914.PNG)
-![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Dashboard%203_023918.PNG)
-![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Dashboard%20(Slicer)_023914.PNG)
+
 ### Trend & Relationship Analysis
 - Compared rating patterns across discount ranges.
 - Identified categories with highest discount rates.
@@ -74,6 +71,3 @@ c. **Dashboard**
 - Dataset provided by my training program
 - Analysis done using Microsoft Excel
 - Formulas and methods based on what I learned during the course
-
-### Project Screenshots
-Below are screenshots showings the analysis and final results.
