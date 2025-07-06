@@ -39,24 +39,24 @@ a. **Calculated columns**
   - ```Composite Score  =  Average Rating + (Rating Count / 1000)```
 
 b. **Pivot Tables**
-- Analyzed average discount % and average prices by categor
-- Counted number of products and total reviews per category
-- Identified products with highest ratings and most reviews
-- Summarized potential revenue per category
+- Analyzed average discount % and average prices by category.
+- Counted number of products and total reviews per category.
+- Identified products with highest ratings and most reviews.
+- Summarized potential revenue per category.
 
 c. **Dashboard**
-- Built charts (bar, line, piechat and column) to present results
+- Built charts (bar, line, pie and column) to present results.
 
 ### Trend & Relationship Analysis
-- Compared rating patterns across discount ranges
-- Identified categories with highest discount rates
-- Ranked top products using combined rating and review score
+- Compared rating patterns across discount ranges.
+- Identified categories with highest discount rates.
+- Ranked top products using combined rating and review score.
 
 ### Recommendation 
  - Focus should be on categories with the highest revenue potential.
  - Highly rated products with fewer reviews should be promoted.
  - 20–50% discounts should be used to boost mid-range product performance.
- - More products in the ₹200–₹500 price range should be developed.
+ - More products in the 200–500 price range should be developed.
  - Highlight products with strong ratings and review counts.
    
 ### Limitation 
