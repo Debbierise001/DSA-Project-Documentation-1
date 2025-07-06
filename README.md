@@ -49,7 +49,7 @@ b. **Pivot Tables**
 c. **Dashboard**
 - Built charts (bar, line, pie and column) to present results.
 
-![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Dashboard_023920.PNG)
+![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Dashboard%20(Slicer)_023914.PNG)
 
 ### Trend & Relationship Analysis
 - Compared rating patterns across discount ranges.
