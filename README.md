@@ -15,7 +15,7 @@ The dataset used for this project was provided by The Incubator Hub as an Excel 
 - Data Cleaning
 - Calculations
   - Excel Formulas such as COUNT, IF, and COUNTIF
-  - Calculated columns: Discount %, Discount % >=50%, Potential Revenue, Price Bucket, and Composite Score.
+  - Calculated columns such as Discount %, Discount % >=50%, Potential Revenue, Price Bucket, and Composite Score.
     - 
 - Summarization
   - Pivot Tables to aggregate and summarize insights
