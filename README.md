@@ -44,6 +44,8 @@ b. **Pivot Tables**
 - Identified products with highest ratings and most reviews.
 - Summarized potential revenue per category.
 
+  
+
 c. **Dashboard**
 - Built charts (bar, line, pie and column) to present results.
 
