@@ -1,4 +1,4 @@
-m# DSA-Project-Documentation-1
+# DSA-Project-Documentation-1
 Amazon Product Review Analysis
 
 ## Project Topic: Amazon Product Review Analysis for E-commerce Optimization
@@ -14,7 +14,7 @@ The dataset used for this project was provided by The Incubator Hub as an Excel 
 - Data Collection
 - Data Cleaning
 - Calculations
-  - Formula such as COUNT
+  - Excel Formulas such as COUNT, IF, and COUNTIF
   - Calculated columns
 - Summarization
   - Pivot Tables to aggregate and summarize insights
