@@ -7,7 +7,7 @@ Amazon Product Review Analysis
 This project explores Amazon product data using Microsoft Excel to analyze review patterns, pricing strategies, and discount performance across categories. The goal is to extract key insights that sellers and marketers can use to improve product placement, pricing models, and review engagement.
 
 ### Data Source
-The dataset used for this project was provided by The Incubator Hub as an Excel file titled "Amazon Case Study.xlsx". It contains product information, pricing, ratings, and customer review counts sourced from Amazon pages for educational purposes.
+The dataset used for this project was provided by The Incubator Hub as an Excel file titled "Amazon Case Study.xlsv". It contains product information, pricing, ratings, and customer review counts sourced from Amazon pages for educational purposes.
 
 ### Tools Used
 **Microsoft Excel** [Download Here](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Amazon%20Case%20Study.xlsx)
