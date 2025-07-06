@@ -68,4 +68,5 @@ c. **Dashboard**
 - Analysis done using Microsoft Excel
 - Formulas and methods based on what I learned during the course
 
+### Project Screenshots
 Below are screenshots showings the analysis and final results.
