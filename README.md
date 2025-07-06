@@ -15,7 +15,8 @@ The dataset used for this project was provided by The Incubator Hub as an Excel 
 - Data Cleaning
 - Calculations
   - Excel Formulas such as COUNT, IF, and COUNTIF
-  - Calculated columns
+  - Calculated columns: Discount %, Discount % >=50%, Potential Revenue, Price Bucket, and Composite Score.
+    - 
 - Summarization
   - Pivot Tables to aggregate and summarize insights
 - Dashboard
@@ -32,12 +33,12 @@ a. **Calculated columns**
 - To measured how much each product was discounted
   - ```Discount % = (Actual Price - Discounted Price) / Actual Price * 100```
 - To labeled products with discount equal or greater than 50%
-  - ```Discount % >50% =IF([@Discount%] >= 50, "Yes", "No")```
+  - ```Discount % >=50% =IF([@Discount%] >= 50, "Yes", "No")```
 - To estimated revenue based on review count
   - ```Potential Revenue = Actual Price * Rating Count```
 - To ranked products by rating and popularity
   - ```Composite Score  =  Average Rating + (Rating Count / 1000)```
-
+- 
 b. **Pivot Tables**
 - Analyzed average discount % and average prices by category.
 - Counted number of products and total reviews per category.
