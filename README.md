@@ -20,7 +20,7 @@ The dataset used for this project was provided by The Incubator Hub as an Excel 
 - Summarization
   - Pivot Tables to aggregate and summarize insights
 - Dashboard
-  - Excel Charts to visualize trends and relationships
+  - Excel Charts and Pivotchart to visualize trends and relationships
   - Tables to identify products with highst average rating, highest ratings e.t.c
 
 ### Data Cleaning & Preparation
