@@ -67,3 +67,5 @@ c. **Dashboard**
 - Dataset provided by my training program
 - Analysis done using Microsoft Excel
 - Formulas and methods based on what I learned during the course
+
+Below are screenshots showings the analysis and final results.
