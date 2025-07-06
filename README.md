@@ -44,7 +44,7 @@ b. **Pivot Tables**
 - Identified products with highest ratings and most reviews.
 - Summarized potential revenue per category.
 ![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Pivot%20Table%20(Slicer)_023921.PNG)
-![Alt text]
+![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Pivot%20Table_023922.PNG)
 c. **Dashboard**
 - Built charts (bar, line, pie and column) to present results.
 
