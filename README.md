@@ -38,7 +38,11 @@ a. **Calculated columns**
   - ```Potential Revenue = Actual Price * Rating Count```
 - To ranked products by rating and popularity
   - ```Composite Score  =  Average Rating + (Rating Count / 1000)```
-- 
+- To group discounts into ranges
+  - ```Discount Bucket=IF([@Discount%]<=10, "0–10%", IF([@Discount%]<=20, "11–20%", ...))```
+- To ategorized prices into bands
+  - ```Price Bucket =IF([@Discounted Price]<200, "<₹200", IF([@Discounted Price]<=500, "₹200–₹500", ">₹500"))```
+
 b. **Pivot Tables**
 - Analyzed average discount % and average prices by category.
 - Counted number of products and total reviews per category.
