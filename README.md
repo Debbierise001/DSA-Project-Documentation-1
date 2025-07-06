@@ -29,11 +29,15 @@ TThe dataset used for this project was provided by The Incubator Hub as an Excel
 
 ### Calculated Insights
 - Created calculated columns
-  - Discount % >50%
-  - Potential Revenue
-  - Composite Score
-- Grouped price and discount values into buckets of ₹200, ₹200–₹500)
-
+  - Discount % to measured how much each product was discounted
+    = (Actual Price - Discounted Price) / Actual Price * 100
+  - Discount % >50% to labeled products with discount equal or greater than 50%
+    = =IF([@Discount%] >= 50, "Yes", "No")
+  - Potential Revenue to estimated revenue based on review count
+    = Actual Price * Rating Count
+  - Composite Score ranked products by rating and popularity
+    =  Average Rating + (Rating Count / 1000)
+  
 
 📈 Data Analysis Using Pivot Tables
 
