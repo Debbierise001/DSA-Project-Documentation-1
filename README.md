@@ -10,17 +10,17 @@ This project explores Amazon product data using Microsoft Excel to analyze revie
 The dataset used for this project was provided by The Incubator Hub as an Excel file titled "Amazon Case Study.xlsx". It contains product information, pricing, ratings, and customer review counts sourced from Amazon pages for educational purposes.
 
 ### Tools Used
-- Microsoft Excel [Download Here]
-  - Data Collection
-  - Data Cleaning
-  - Calculations
-    - Formula such as COUNT
-    - Calculated columns
-  - Summarization
-    - Pivot Tables to aggregate and summarize insights
-  - Dashboard
-   - Excel Charts to visualize trends and relationships
-   - Tables to identify products with highst average rating, highest ratings e.t.c
+**Microsoft Excel** [Download Here]
+- Data Collection
+- Data Cleaning
+- Calculations
+  - Formula such as COUNT
+  - Calculated columns
+- Summarization
+  - Pivot Tables to aggregate and summarize insights
+- Dashboard
+  - Excel Charts to visualize trends and relationships
+  - Tables to identify products with highst average rating, highest ratings e.t.c
 
 ### Data Cleaning & Preparation
 - Removed unnecessary columns such as image link, product link, review content, review title, username, user ID, and review ID
@@ -52,3 +52,19 @@ c. **Dashboard**
 - Identified categories with highest discount rates
 - Ranked top products using combined rating and review score
 
+### Recommendation 
+ - Focus should be on categories with the highest revenue potential.
+ - Highly rated products with fewer reviews should be promoted.
+ - 20–50% discounts should be used to boost mid-range product performance.
+ - More products in the ₹200–₹500 price range should be developed.
+ - Highlight products with strong ratings and review counts.
+   
+### Limitation 
+- The dataset may not reflect real-time or complete Amazon product data.
+- Limited data on user demographics or actual sales volume
+
+### Reference 
+- Dataset provided by my training program for practice purposes
+- Analysis done using Microsoft Excel
+- Formulas and methods based on what I learned during the course
+- Project created for learning and portfolio use only
