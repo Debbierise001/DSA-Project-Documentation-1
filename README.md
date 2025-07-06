@@ -64,7 +64,6 @@ c. **Dashboard**
 - Limited data on user demographics or actual sales volume
 
 ### Reference 
-- Dataset provided by my training program for practice purposes
+- Dataset provided by my training program
 - Analysis done using Microsoft Excel
 - Formulas and methods based on what I learned during the course
-- Project created for learning and portfolio use only
