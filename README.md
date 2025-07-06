@@ -43,7 +43,7 @@ b. **Pivot Tables**
 - Counted number of products and total reviews per category.
 - Identified products with highest ratings and most reviews.
 - Summarized potential revenue per category.
-[Pivot Table with Slicer]
+[Pivot Table with Slicer](https://raw.githubusercontent.com/Debbierise001/DSA-Project-Documentation-1/refs/heads/main/Pivot%20Table%20(Slicer)_023921.PNG)
 
 c. **Dashboard**
 - Built charts (bar, line, pie and column) to present results.
