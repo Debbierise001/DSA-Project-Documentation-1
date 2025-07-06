@@ -23,8 +23,6 @@ TThe dataset used for this project was provided by The Incubator Hub as an Excel
    - Tables to identify products with highst average rating, highest ratings e.t.c
 
 ### Data Cleaning & Preparation
-Ensured all price columns were in numeric format
-Removed rows with missing or inconsistent values
-Created calculated columns using formulas (Discount %, Revenue, etc.)
-
-Grouped values into buckets for better visual analysis
+- Removed unnecessary columns such as image link, product link, review content, review title, username, user ID, and review ID
+- Shortened long product names to the first four words for clarity and consistency
+- Added space to the category and remove other unwanted words.
