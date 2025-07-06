@@ -26,3 +26,36 @@ TThe dataset used for this project was provided by The Incubator Hub as an Excel
 - Removed unnecessary columns such as image link, product link, review content, review title, username, user ID, and review ID
 - Shortened long product names to the first four words for clarity and consistency
 - Added space to the category and remove other unwanted words.
+
+Calculated Insights
+
+Created calculated columns (e.g., Discount %, Revenue, Composite Score)
+
+Grouped price and discount values into buckets (e.g., ₹200–₹500)
+
+
+📈 Data Analysis Using Pivot Tables
+
+Analyzed average discount % and average prices by category
+
+Counted number of products and total reviews per category
+
+Identified products with highest ratings and most reviews
+
+Summarized potential revenue per category
+
+
+📉 Trend & Relationship Analysis
+
+Compared rating patterns across discount ranges
+
+Identified categories with highest discount rates
+
+Ranked top products using combined rating and review score
+
+
+📌 Visualization & Reporting
+
+Built charts (bar, line, column) to present insights
+
+Captured key visuals as screenshots for documentation
