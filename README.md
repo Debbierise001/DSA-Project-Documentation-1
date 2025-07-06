@@ -27,11 +27,12 @@ TThe dataset used for this project was provided by The Incubator Hub as an Excel
 - Shortened long product names to the first four words for clarity and consistency
 - Added space to the category and remove other unwanted words.
 
-Calculated Insights
-
-Created calculated columns (e.g., Discount %, Revenue, Composite Score)
-
-Grouped price and discount values into buckets (e.g., ₹200–₹500)
+### Calculated Insights
+- Created calculated columns
+  - Discount % >50%
+  - Potential Revenue
+  - Composite Score
+- Grouped price and discount values into buckets of ₹200, ₹200–₹500)
 
 
 📈 Data Analysis Using Pivot Tables
