@@ -10,7 +10,7 @@ This project explores Amazon product data using Microsoft Excel to analyze revie
 The dataset used for this project was provided by The Incubator Hub as an Excel file titled "Amazon Case Study.xlsx". It contains product information, pricing, ratings, and customer review counts sourced from Amazon pages for educational purposes.
 
 ### Tools Used
-**Microsoft Excel** [Download Here](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Amazon%20case%20study.xlsx)
+**Microsoft Excel** [Download Here](https://github.com/Debbierise001/DSA-Project-Documentation-1/raw/main/Amazon%20case%20study.xlsx)
 - Data Collection
 - Data Cleaning
 - Calculations
@@ -49,13 +49,30 @@ b. **Pivot Tables**
 - Identified products with the highest ratings and most reviews.
 - Summarized potential revenue per category.
 
+
+
+
+
+
 ![Pivot Table](https://github.com/Debbierise001/DSA-Project-Documentation-1/raw/main/Pivot%20Table.PNG)
+
+
+
+
+
 ![Pivot Table(Slicer)](https://github.com/Debbierise001/DSA-Project-Documentation-1/raw/main/Pivot%20Table(Slicer).PNG) 
 
 c. **Dashboard**
 - Built charts (bar, line, pie, and column) to present results.
 
+
+
+
 ![Dashboard](https://github.com/Debbierise001/DSA-Project-Documentation-1/raw/main/Dashboard.PNG)
+
+
+
+
 ![Dashboard(Slicer)](https://github.com/Debbierise001/DSA-Project-Documentation-1/raw/main/Dashboard%20(Slicer).PNG)
 
 ### Trend & Relationship Analysis
