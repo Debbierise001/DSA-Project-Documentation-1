@@ -7,10 +7,10 @@ Amazon Product Review Analysis
 This project explores Amazon product data using Microsoft Excel to analyze review patterns, pricing strategies, and discount performance across categories. The goal is to extract key insights that sellers and marketers can use to improve product placement, pricing models, and review engagement.
 
 ### Data Source
-The dataset used for this project was provided by The Incubator Hub as an Excel file titled "Amazon Case Study.xlsv". It contains product information, pricing, ratings, and customer review counts sourced from Amazon pages for educational purposes.
+The dataset used for this project was provided by The Incubator Hub as an Excel file titled "Amazon Case Study.xlsx". It contains product information, pricing, ratings, and customer review counts sourced from Amazon pages for educational purposes.
 
 ### Tools Used
-**Microsoft Excel** [Download Here]()
+**Microsoft Excel** [Download Here](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Amazon%20case%20study.xlsx)
 - Data Collection
 - Data Cleaning
 - Calculations
@@ -20,8 +20,8 @@ The dataset used for this project was provided by The Incubator Hub as an Excel 
 - Summarization
   - Pivot Tables to aggregate and summarize insights
 - Dashboard
-  - Excel Charts and Pivotcharts to visualize trends and relationships
-  - Tables to identify products with highest average rating, highest ratings e.t.c
+  - Excel Charts and Pivot Charts to visualize trends and relationships
+  - Tables to identify products with the highest average rating, highest ratings, e.t.c
 
 ### Data Cleaning & Preparation
 - Removed unnecessary columns such as image link, product link, review content, review title, username, user ID, and review ID
@@ -53,7 +53,6 @@ b. **Pivot Tables**
 
 
 
-![Pivot Table](https://github.com/user-attachments/assets/c3417230-50b8-4be3-94fe-732ac4b2790a)
 
 
 
@@ -61,12 +60,7 @@ b. **Pivot Tables**
 
 
 
-
-
-
-
-
-
+,
 
 
 
