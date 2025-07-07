@@ -53,14 +53,14 @@ b. **Pivot Tables**
 ![Pivot Table(Slicer)](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Pivot%20Table(Slicer).PNG) 
 
 c. **Dashboard**
-- Built charts (bar, line, pie and column) to present results.
+- Built charts (bar, line, pie, and column) to present results.
 
 ![Dashboard](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Dashboard.PNG)
 ![Dashboard(Slicer)](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Dashboard%20(Slicer).PNG)
 
 ### Trend & Relationship Analysis
 - Compared rating patterns across discount ranges.
-- Identified categories with highest discount rates.
+- Identified categories with the highest discount rates.
 - Ranked top products using combined rating and review score.
 
 ### Recommendation 
@@ -75,6 +75,6 @@ c. **Dashboard**
 - Limited data on user demographics or actual sales volume
 
 ### Reference 
-- Dataset provided by training program
+- The dataset provided by the training program
 - Analysis done using Microsoft Excel
 - Formulas and methods based on what was learned during the course
