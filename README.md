@@ -49,28 +49,14 @@ b. **Pivot Tables**
 - Identified products with the highest ratings and most reviews.
 - Summarized potential revenue per category.
 
-
-
-
-
-
-
-
-
-
-
-
-,
-
-
-
-
+![Pivot Table](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Pivot%20Table.PNG)
+![Pivot Table(Slicer)](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Pivot%20Table(Slicer).PNG) 
 
 c. **Dashboard**
 - Built charts (bar, line, pie and column) to present results.
 
-![Alt text](https://github.com/![Pivot Table(Slicer)](https://github.com/user-attachments/assets/8830cd52-268a-47b3-8077-165e82467072)
-Debbierise001/DSA-Project-Documentation-1/blob/main/Dashboard%20(Slicer)_023914.PNG)
+![Dashboard](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Dashboard.PNG)
+![Dashboard(Slicer)](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Dashboard%20(Slicer).PNG)
 
 ### Trend & Relationship Analysis
 - Compared rating patterns across discount ranges.
