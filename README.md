@@ -50,14 +50,7 @@ b. **Pivot Tables**
 - Summarized potential revenue per category.
 
 
-
-
-
-
 ![Pivot Table](https://github.com/Debbierise001/DSA-Project-Documentation-1/raw/main/Pivot%20Table.PNG)
-
-
-
 
 
 ![Pivot Table(Slicer)](https://github.com/Debbierise001/DSA-Project-Documentation-1/raw/main/Pivot%20Table(Slicer).PNG) 
@@ -66,11 +59,7 @@ c. **Dashboard**
 - Built charts (bar, line, pie, and column) to present results.
 
 
-
-
 ![Dashboard](https://github.com/Debbierise001/DSA-Project-Documentation-1/raw/main/Dashboard.PNG)
-
-
 
 
 ![Dashboard(Slicer)](https://github.com/Debbierise001/DSA-Project-Documentation-1/raw/main/Dashboard%20(Slicer).PNG)
