@@ -26,28 +26,46 @@ The dataset used for this project was provided by The Incubator Hub as an Excel 
 ### Data Cleaning & Preparation
 - Removed unnecessary columns such as image link, product link, review content, review title, username, user ID, and review ID
 - Shortened long product names to the first four words for clarity and consistency
-- Added space to the category and remove other unwanted words.
+- Added space to the category and removed other unwanted words.
 
 ### Calculations and Analysis
 a. **Calculated columns**
-- To measured how much each product was discounted
-  - ```Discount % = (Actual Price - Discounted Price) / Actual Price * 100```
-- To labeled products with discount equal or greater than 50%
+- To measure how much each product was discounted
+  - ```Discount% = (Actual Price - Discounted Price) / Actual Price * 100```
+- To label products with discounts equal to or greater than 50%
   - ```Discount % >=50% =IF([@Discount%] >= 50, "Yes", "No")```
-- To estimated revenue based on review count
+- To estimate revenue based on review count
   - ```Potential Revenue = Actual Price * Rating Count```
-- To ranked products by rating and popularity
+- To rank products by rating and popularity
   - ```Composite Score  =  Average Rating + (Rating Count / 1000)```
 - To group discounts into ranges
   - ```Discount Bucket= IF([@Discount%]<=10, "0–10%", IF([@Discount%]<=20, "11–20%", ...))```
-- To ctegorized prices into bands
+- To categorize prices into bands
   - ```Price Bucket = IF([@Discounted Price]<200, "<₹200", IF([@Discounted Price]<=500, "₹200–₹500", ">₹500"))```
 
 b. **Pivot Tables**
 - Analyzed average discount % and average prices by category.
-- Counted number of products and total reviews per category.
-- Identified products with highest ratings and most reviews.
+- Counted the number of products and total reviews per category.
+- Identified products with the highest ratings and most reviews.
 - Summarized potential revenue per category.
+
+
+
+
+
+![Pivot Table](https://github.com/user-attachments/assets/c3417230-50b8-4be3-94fe-732ac4b2790a)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -57,7 +75,8 @@ b. **Pivot Tables**
 c. **Dashboard**
 - Built charts (bar, line, pie and column) to present results.
 
-![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-1/blob/main/Dashboard%20(Slicer)_023914.PNG)
+![Alt text](https://github.com/![Pivot Table(Slicer)](https://github.com/user-attachments/assets/8830cd52-268a-47b3-8077-165e82467072)
+Debbierise001/DSA-Project-Documentation-1/blob/main/Dashboard%20(Slicer)_023914.PNG)
 
 ### Trend & Relationship Analysis
 - Compared rating patterns across discount ranges.
